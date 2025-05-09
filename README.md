@@ -32,9 +32,12 @@ Skills:
 - Figma (For early stage designation)
 - Database Design
 - Application Design (MVC Architecture)
-- ERD is as below:
+- <h3>ERD is as below:</h3>
   <img src="https://github.com/ixgnoy/CSC3402_Project/blob/main/ERD/ERD.png" />
   <hr>
+
+<h3>The Architecture Diagram:</h3>
+<img src="Architecture Diagram/diagram (travel.Now).png"/><br>
   
 Relationship is as below:
 
