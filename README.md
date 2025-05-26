@@ -3,9 +3,11 @@
 
 *Empowering seamless travel bookings with modern web technologies.*
 
-![last-commit](https://img.shields.io/github/last-commit/your-username/your-repo-name)
-![repo-top-language](https://img.shields.io/github/languages/top/your-username/your-repo-name)
-![repo-language-count](https://img.shields.io/github/languages/count/your-username/your-repo-name)
+![last-commit](https://img.shields.io/github/last-commit/ixgnoy/TravelNow)
+![repo-top-language](https://img.shields.io/github/languages/top/ixgnoy/TravelNow)
+![repo-language-count](https://img.shields.io/github/languages/count/ixgnoy/TravelNow)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ixgnoy.TravelNow)
+
 
 ---
 
