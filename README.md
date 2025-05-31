@@ -24,7 +24,7 @@
 - 🧩 Package Listings  
 - 🕒 Booking Sessions  
 - 💳 Payment Integration
-- - 🤖 AI-Powered Chatbot Features:  
+- 🤖 AI-Powered Chatbot Features:  
   - Real-time user assistance  
   - Context-aware conversation powered by Gemini API  
   - User-friendly chat interface  
