@@ -74,6 +74,10 @@ Relationship is as below:
 - One-to-One Relationship between Book and Payment (one booking can have only one payment).
 - One-to-One Relationship between Book and Package (one booking can be within only one package).
 
+Latest Feature:
+- Implemented Intelligent Chabot using Gemini API (Flash 2.0 Model) with restricted safety feature to avoid offensive language:
+  <img src=""/>
+
 Demonstration is as below:
 1. Login when you're a registered user:<br>
    [![Db Web Dev Demo Video](https://i9.ytimg.com/vi_webp/umv8zJHvv3A/mqdefault.webp?v=66fa4d82&sqp=CPCY6bcG&rs=AOn4CLDwdFfDD1fSb5pAtk71AqN6ZufOlw)](https://youtu.be/umv8zJHvv3A "Database Web Dev Demo Video")
