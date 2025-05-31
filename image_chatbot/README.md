@@ -1,0 +1,3 @@
+This is the folder to store the image of Chatbot for the website, I am using microservice. 
+
+I chose to use a **microservice architecture with Node.js** to build the chatbot using the **Gemini API** because it allows for better scalability, modularity, and easier maintenance. By isolating the chatbot functionality into a separate microservice, it becomes independent from the main application, making it easier to update, debug, and scale as needed. Node.js is ideal for this setup due to its non-blocking, event-driven nature, which enables efficient handling of API requests and real-time communication. This approach also keeps the system flexible and allows other parts of the platform to interact with the chatbot via a simple API call.
